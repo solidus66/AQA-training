@@ -23,5 +23,5 @@ console.log(numOfTests);
 const totalExecutionTime =
   groupOne * secGroupOne + groupTwo * secGroupTwo + groupThree * secGroupThree;
 console.log(totalExecutionTime);
-const averageTime = secondsOfTests / numOfTests;
+const averageTime = totalExecutionTime / numOfTests;
 console.log(averageTime);
