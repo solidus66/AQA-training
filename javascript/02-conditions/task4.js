@@ -13,7 +13,7 @@
 
 const username = "solidus";
 const password = "123456";
-const isBlocked = true;
+const isBlocked = false;
 
 const authStatus =
   username && password && !isBlocked ? "AUTHORIZED" : "UNAUTHORIZED";
