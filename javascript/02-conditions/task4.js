@@ -11,12 +11,13 @@
 // - Используй тернарный оператор для определения значения переменной authStatus: "AUTHORIZED" или "UNAUTHORIZED".
 // - Выведи результат в консоль.
 
-const username = "1";
-const password = "1";
+const username = "solidus";
+const password = "123456";
 const isBlocked = true;
 
 const authStatus =
   username && password && !isBlocked ? "AUTHORIZED" : "UNAUTHORIZED";
+console.log(authStatus);
 
 if (!username || !password) {
   console.log("Credentials are required");
