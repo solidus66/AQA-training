@@ -1,4 +1,4 @@
-// // Задание 3. Retry Mechanism
+// Задание 3. Retry Mechanism
 // Исходные данные:
 // let attempt = 1;
 // const maxAttempts = 5;
