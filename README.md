@@ -18,7 +18,7 @@
   - Переменные и константы
   - Типы данных
   - Операторы и выражения
-  - Преобразование типов
+  - Автоматическое приведение типов при сравнении
   - [Теория](javascript/01-basics/theory.md)
   - [Задание 1](javascript/01-basics/task1.js) · [Задание 2](javascript/01-basics/task2.js) · [Задание 3](javascript/01-basics/task3.js) · [Задание 4](javascript/01-basics/task4.js)
 
@@ -34,7 +34,6 @@
 - [x] **03 — Циклы**
   - `for`, `while`, `do...while`
   - `break` и `continue`
-  - Вложенные циклы
   - Бесконечные циклы
   - [Теория](javascript/03-loops/theory.md)
   - [Задание 1](javascript/03-loops/task1.js) · [Задание 2](javascript/03-loops/task2.js) · [Задание 3](javascript/03-loops/task3.js) · [Задание 4](javascript/03-loops/task4.js)
