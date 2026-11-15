@@ -48,20 +48,22 @@
   - [Теория](javascript/04-functions/theory.md)
   - [Задание 1](javascript/04-functions/task1.js) · [Задание 2](javascript/04-functions/task2.js) · [Задание 3](javascript/04-functions/task3.js) · [Задание 4](javascript/04-functions/task4.js)
 
-- [ ] **05 — Массивы**
+- [x] **05 — Массивы**
   - Создание и изменение массивов
   - Индексы и длина массива
-  - Основные методы массивов
-  - `map`, `filter`, `find`, `forEach`
-  - Перебор массивов
+  - Методы добавления и удаления элементов
+  - Методы поиска элементов
+  - `push`, `pop`, `shift`, `unshift`
+  - `includes`, `indexOf`
+  - Перебор массивов через `for` и `for...of`
+  - [Теория](javascript/05-arrays/theory.md)
+  - [Задание 1](javascript/05-arrays/task1.js) · [Задание 2](javascript/05-arrays/task2.js) · [Задание 3](javascript/05-arrays/task3.js) · [Задание 4](javascript/05-arrays/task4.js)
 
 - [ ] **06 — Объекты**
   - Создание объектов
   - Свойства и методы
   - Доступ к свойствам
   - Вложенные объекты
-  - Деструктуризация
-  - Spread и rest
 
 - [ ] **07 — Область видимости и обработка ошибок**
   - Глобальная и локальная область видимости
@@ -79,6 +81,10 @@
   - Callback-функции
   - Функции высшего порядка
   - Передача функций в качестве аргументов
+  - `forEach()`
+  - `map()`
+  - `filter()`
+  - `find()`
   - Практика с массивами и функциями
 
 - [ ] **09 — Promise и асинхронность**
