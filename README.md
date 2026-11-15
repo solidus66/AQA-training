@@ -59,11 +59,13 @@
   - [Теория](javascript/05-arrays/theory.md)
   - [Задание 1](javascript/05-arrays/task1.js) · [Задание 2](javascript/05-arrays/task2.js) · [Задание 3](javascript/05-arrays/task3.js) · [Задание 4](javascript/05-arrays/task4.js)
 
-- [ ] **06 — Объекты**
+- [x] **06 — Объекты**
   - Создание объектов
   - Свойства и методы
   - Доступ к свойствам
   - Вложенные объекты
+  - [Теория](javascript/06-objects/theory.md)
+  - [Задание 1](javascript/06-objects/task1.js) · [Задание 2](javascript/06-objects/task2.js) · [Задание 3](javascript/06-objects/task3.js) · [Задание 4](javascript/06-objects/task4.js)
 
 - [ ] **07 — Область видимости и обработка ошибок**
   - Глобальная и локальная область видимости
